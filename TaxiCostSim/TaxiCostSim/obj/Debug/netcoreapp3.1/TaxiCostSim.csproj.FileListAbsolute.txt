@@ -1,0 +1,13 @@
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\bin\Debug\netcoreapp3.1\TaxiCostSim.exe
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\bin\Debug\netcoreapp3.1\TaxiCostSim.deps.json
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\bin\Debug\netcoreapp3.1\TaxiCostSim.runtimeconfig.json
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\bin\Debug\netcoreapp3.1\TaxiCostSim.runtimeconfig.dev.json
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\bin\Debug\netcoreapp3.1\TaxiCostSim.dll
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\bin\Debug\netcoreapp3.1\TaxiCostSim.pdb
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\obj\Debug\netcoreapp3.1\TaxiCostSim.csprojAssemblyReference.cache
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\obj\Debug\netcoreapp3.1\TaxiCostSim.AssemblyInfoInputs.cache
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\obj\Debug\netcoreapp3.1\TaxiCostSim.AssemblyInfo.cs
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\obj\Debug\netcoreapp3.1\TaxiCostSim.csproj.CoreCompileInputs.cache
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\obj\Debug\netcoreapp3.1\TaxiCostSim.dll
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\obj\Debug\netcoreapp3.1\TaxiCostSim.pdb
+C:\Users\basbi\source\repos\TaxiCostSim\TaxiCostSim\obj\Debug\netcoreapp3.1\TaxiCostSim.genruntimeconfig.cache
